@@ -38,3 +38,4 @@ streamlit run app.py
 - ✅ تحميل التقرير
 
 ---
+<img width="2499" height="1071" alt="image" src="https://github.com/user-attachments/assets/bfca781e-b814-40ad-875b-4aa7fe74aa5c" />
